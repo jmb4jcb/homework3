@@ -1,0 +1,15 @@
+/* This CSS is to set the display properties for pesonal site*/
+body{
+
+	background-color:rgba(0,100,100,.4);
+}
+a:link{color: red;}
+a:hover{color: white;}
+a:active{color: black;}
+a:visited{color:brown;}
+a:focus{color:blue}
+p{ font-size: 25px; }
+
+h1{ font-size: 40px; color:rgba(15,100,100,1}
+
+
