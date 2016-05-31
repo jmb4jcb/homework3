@@ -7,7 +7,9 @@ a:link{color: red;}
 a:hover{color: white;}
 a:active{color: black;}
 a:visited{color:brown;}
-a:focus{color:blue}
+a:focus	{color:blue}
+
+
 p{ font-size: 25px; }
 
 h1{ font-size: 40px; color:rgba(15,100,100,1}
